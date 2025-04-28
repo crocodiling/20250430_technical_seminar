@@ -1,1 +1,3 @@
-# 20250423_technical_seminar
+# 20250430_technical_seminar
+
+技ゼミ用のサンプルリポジトリです．
